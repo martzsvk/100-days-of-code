@@ -9,11 +9,12 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | Day | Name of the project | Theme | Link |
 | :--: | :--: | :--: | :--: |
 | 01 | **Band Name Generator** | Variables in Python | [Code here](./day-01/) | 
+| 02 | **Tip Calculator** | Data Types | [Code here](./day-02/) |
 
 ---
 
 ## Tech Used 🛠️
-* **Language:** Newest Python
+* **Language:** Newest Python (Python 3.14.3)
 * **Environment:** PyCharm / VS Code
 * **Libraries:** Coming soon
 
@@ -22,9 +23,9 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-1%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-2%20%2F%20100-green?style=for-the-badge)<br/>
 
-![Last Commit](https://img.shields.io/badge/Last_Commit-Yesterday-orange?style=for-the-badge)<br/>
+![Last Commit](https://img.shields.io/badge/Last_Commit-19.3.26-orange?style=for-the-badge)<br/>
 
 ---
 
