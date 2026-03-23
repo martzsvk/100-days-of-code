@@ -15,4 +15,5 @@ This is a classic Hangman game where you have to guess a secret word letter by l
 3. Type a letter and **Enter**
 4. Enjoy & don't let the man die 
 
+### Demo of Hangman 📺
 ![recording](https://github.com/user-attachments/assets/b0938d1e-b8a0-4980-91a2-7b03e2c502ac)
