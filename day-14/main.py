@@ -23,7 +23,6 @@ while playing:
             #joining the dic together and without brackets
             a_statement = ", ".join([a_statement["name"], a_statement["description"], a_statement["country"]])
             print(f"Compare A: {a_statement}")
-            print(a_follower_c)
 
             # print VS art
             print(art.vs)
@@ -36,7 +35,6 @@ while playing:
             # joining the dic together and without brackets
             b_statement = ", ".join([b_statement["name"], b_statement["description"], b_statement["country"]])
             print(f"Compare B: {b_statement}")
-            print(b_follower_c)
 
 
             # who has more followers?
