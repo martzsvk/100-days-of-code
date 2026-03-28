@@ -77,7 +77,7 @@ def save():
         website_input.delete(0, END)
         name_input.delete(0, END)
         password_input.delete(0, END)
-        name_input.insert(0, "martin.zapletal26@gmail.com")
+        name_input.insert(0, "YOUR_MAIL")
 
 # lock picture
 lock_canvas = Canvas()
@@ -102,7 +102,7 @@ website_input.focus()
 
 name_input = Entry(width=35)
 name_input.place(x=160, y=300)
-name_input.insert(0, "martin.zapletal26@gmail.com")
+name_input.insert(0, "YOUR_MAIL")
 
 password_input = Entry(width=25)
 password_input.place(x=160, y=325)
