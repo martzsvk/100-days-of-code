@@ -34,6 +34,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | Day | Name of the project | Theme | Link |
 | :--: | :--: | :--: | :--: |
 | 15/16 | **Coffee Machine** | Object Oriented Programming (OOP) | [Code here](./day-15/) |
+| 17 | **Quiz** | Creating Classes & using `__init__` Method | [Code here](./day-17/) |
 
 </details>
 
@@ -51,7 +52,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-16%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-17%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-28.3.26-orange?style=for-the-badge)<br/>
 
