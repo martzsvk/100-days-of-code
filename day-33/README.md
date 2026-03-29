@@ -8,6 +8,6 @@ A real-time tracking script that combines two different APIs to notify you when 
 * **HTTP Response Codes:** Learning to interpret server feedback (e.g., `200` for Success, `404` for Not Found, `401` for Unauthorized).
 
 ## Requirements 📦
-* Requests Library: `pip install requests`
-* SMTP Library: For sending the email notification.
-* Datetime: To compare local time with sunset/sunrise times.
+* **Requests Library:** `pip install requests`
+* **SMTP Library:** For sending the email notification.
+* **Datetime:** To compare local time with sunset/sunrise times.
