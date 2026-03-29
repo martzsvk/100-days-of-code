@@ -57,6 +57,13 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | Day | Name of the project | Theme | Link |
 | :--: | :--: | :--: | :--: |
 | 32 | **Birtday Wisher** | SMTP & Datetime Automation | [Code here](./day-32/) |
+| 33 | **ISS Overhead Notifier** | Endpoints & API Parameters | [Code here](./day-33/) |
+| 34 | **Quiz App** | API Practice | [Code here](./day-34/) |
+| 35 | **Rain Alert** | Enviroment Keys & Authentication | [Code here](./day-35/) |
+| 36 | **Stock Trading News Alert** | Multiple API's | [Code here](./day-36/) |
+| 37 | **Habit Tracker** | API Post Requests & Headers | [Code here](./day-37/) |
+| 38 | **Workout Tracking** | Google Sheets | [Code here](./day-38/) |
+| 39 | **Flight Deal Finder** | Capstone Project: API's & OOP | [Code here](./day-39/) |
 
 </details>
 
@@ -73,17 +80,23 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
     * `time`
     * `tkinter`
     * `json`
+    * `smtplib`
+    * `datetime`
+    * `os`
   * **External Libraries:**
     * `colorgram`
     * `pandas`
     * `pyperclip`
+    * `requests`
+    * `python-dotenv`
+    * `twilio`
 
 ---
 
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-32%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-39%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)<br/>
 
