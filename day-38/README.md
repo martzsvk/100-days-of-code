@@ -14,7 +14,7 @@ A fitness tracking application that uses Natural Language Processing (NLP) to un
 4. This structured data is then sent via a `POST` request to a Google Sheet (managed by the Sheety API), where it is saved for long-term tracking.
 
 ## Requirements 📦
-* **Requests:**
-* **Nutritionix API:**
-* **Sheety API:**
-* **Python-Dotenv:**
+* **Requests**
+* **Nutritionix API**
+* **Sheety API**
+* **Python-Dotenv**
