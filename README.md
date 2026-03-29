@@ -66,8 +66,12 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 39/40 | **Flight Deal Finder** | Capstone Project: API's & OOP | [Code here](./day-39/) |
 | 41 | **Movie Ranking Website** | Introduction to HTML | [Code here](./day-41/) |
 | 42 | **Birthday Invite Website** | Intermediate HTML | [Code here](./day-42/) |
-| 43 | **Color Vocab Website** | Introductino to CSS | [Code here](./day-43/) |
+| 43 | **Color Vocab Website** | Introduction to CSS | [Code here](./day-43/) |
 | 44 | **Motivational Website** | Intermediate CSS | [Code here](./day-44/) |
+| 45 | **Scraping 100 Movies** | Beautiful Soup | [Code here](./day-45/) |
+| 47 | **Scraping Amazon Website** |  | [Code here](./day-47/) |
+| 48 | **Cookie Clicker Bot** | Selenium Webdriver Browser | [Code here](./day-48/) |
+| 54 | **Flask Server** | Introductino to Flask | [Code here](./day-54/) |
 
 </details>
 
@@ -88,6 +92,10 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
     * `requests` (API Interactions)
     * `python-dotenv` (Security & Enviromental Variables)
     * `twilio` (SMS Communications)
+    * `beautifulsoup4` (Web scraping)
+    * `selenium` (Web automation & browser testing)
+    * `lxml` (High-performance HTML/XML processing)
+    * `flask` (Python-based web framework for backend development)
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
 ![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</br>
 
-![Progress](https://img.shields.io/badge/Progress-44%20%2F%20100-green?style=for-the-badge)</br>
+![Progress](https://img.shields.io/badge/Progress-54%20%2F%20100-green?style=for-the-badge)</br>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)</br>
 
