@@ -52,10 +52,11 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 </details>
 
 <details>
-<summary><b>🟠 Intermediate + days (32-58)</b></summary>
+<summary><b>🟠 Intermediate+ days (32-58)</b></summary>
  
 | Day | Name of the project | Theme | Link |
 | :--: | :--: | :--: | :--: |
+| 32 | **Birtday Wisher** | SMTP & Datetime Automation | [Code here](./day-32/) |
 
 </details>
 
@@ -84,7 +85,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 
 ![Progress](https://img.shields.io/badge/Progress-32%20%2F%20100-green?style=for-the-badge)<br/>
 
-![Last Commit](https://img.shields.io/badge/Last_Commit-28.3.26-orange?style=for-the-badge)<br/>
+![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)<br/>
 
 ---
 
