@@ -69,9 +69,19 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 43 | **Color Vocab Website** | Introduction to CSS | [Code here](./day-43/) |
 | 44 | **Motivational Website** | Intermediate CSS | [Code here](./day-44/) |
 | 45 | **Scraping 100 Movies** | Beautiful Soup | [Code here](./day-45/) |
-| 47 | **Scraping Amazon Website** |  | [Code here](./day-47/) |
+| 46 | *Skipped* | Billboard 100 (API Deprecated) | [Note below](#notes) |
+| 47 | **Scraping Amazon Website** | Beauftiful Soup with Real Website | [Code here](./day-47/) |
 | 48 | **Cookie Clicker Bot** | Selenium Webdriver Browser | [Code here](./day-48/) |
+| 49-53 | *Skipped* | Web Automation Projects | [Note below](#notes) |
 | 54 | **Flask Server** | Introductino to Flask | [Code here](./day-54/) |
+
+<a name="notes"></a>
+### Notes on Progress 📝
+> **Day 46:** I skipped day 46 because the necessary part of the website is no longer free to use.
+> 
+> **Days 49 and 53:** To be honest, I just didn't enjoy these projects. I tried to work through them, but they didn't stick with me, so I decided it was better to move forward rather than spend an unnecessary amount of time on them.
+> 
+> **Days 50-52:** I skipped these days because I didn't want to create accounts on multiple different sites. I feel I already understood the core topics through the projects and exercises from previous days.
 
 </details>
 
@@ -106,7 +116,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 
 ![Progress](https://img.shields.io/badge/Progress-54%20%2F%20100-green?style=for-the-badge)</br>
 
-![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)</br>
+![Last Commit](https://img.shields.io/badge/Last_Commit-30.3.26-orange?style=for-the-badge)</br>
 
 ---
 
