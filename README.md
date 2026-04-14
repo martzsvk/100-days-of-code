@@ -74,7 +74,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 48 | **Cookie Clicker Bot** | Selenium Webdriver Browser | [Code here](./day-48/) |
 | 49-53 | *Skipped* | Web Automation Projects | [Note below](#notes) |
 | 54 | **Flask Server** | Introduction to Flask | [Code here](./day-54/) |
-| 56 | **High Lower Flask Game** | URL & HTML Parsing | [Code here](./day-55/) |
+| 55 | **High Lower Flask Game** | URL & HTML Parsing | [Code here](./day-55/) |
 | 56 | **Name Card Website Template** | Rendering HTML & Static files | [Code here](./day-56/) |
 
 <a name="notes"></a>
