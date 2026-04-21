@@ -76,6 +76,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 54 | **Flask Server** | Introduction to Flask | [Code here](./day-54/) |
 | 55 | **High Lower Flask Game** | URL & HTML Parsing | [Code here](./day-55/) |
 | 56 | **Name Card Website Template** | Rendering HTML & Static files | [Code here](./day-56/) |
+| 57 | **Blog Website** | Jinja in Flask applications | [Code here](./day-57/) |
 
 <a name="notes"></a>
 ### Notes on Progress 📝
@@ -107,7 +108,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
     * `beautifulsoup4` (Web scraping)
     * `selenium` (Web automation & browser testing)
     * `lxml` (High-performance HTML/XML processing)
-    * `flask` (Python-based web framework for backend development)
+    * `flask`, `jinja` (Python-based web framework for backend development)
 
 ---
 
@@ -116,9 +117,9 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
 ![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</br>
 
-![Progress](https://img.shields.io/badge/Progress-56%20%2F%20100-green?style=for-the-badge)</br>
+![Progress](https://img.shields.io/badge/Progress-57%20%2F%20100-green?style=for-the-badge)</br>
 
-![Last Commit](https://img.shields.io/badge/Last_Commit-14.4.26-orange?style=for-the-badge)</br>
+![Last Commit](https://img.shields.io/badge/Last_Commit-21.4.26-orange?style=for-the-badge)</br>
 
 ---
 
